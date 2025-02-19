@@ -136,6 +136,11 @@ hr{
     padding: 0 0 0 20px;
 }
 
+.rede a{
+    color: #89FAC4;
+    text-decoration: none;
+}
+
 /*CSS LINGUAGENS*/
 .caixinha-linguagem{
     display:flex;
